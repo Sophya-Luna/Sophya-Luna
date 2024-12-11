@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sophya-Luna
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Front-end and Java
-- 💞️ I’m looking to collaborate on programmin projects
+- 💞️ I’m looking to collaborate on programming projects
 - 📫 How to reach me: sophyadevargasmartinez@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Luna is my dog name
